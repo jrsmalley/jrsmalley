@@ -104,5 +104,5 @@ Jeffrey.attack(Red)
 Jeffrey.ap(blastois)
 
     
-print("Jeffrey beats Red, Jeffrey is the new pokemon champion with his Zapdos")
+print("Jeffrey beats Red, Jeffrey is the new pokemon champion with his blastois")
     
